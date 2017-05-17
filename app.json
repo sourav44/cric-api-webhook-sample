@@ -1,0 +1,7 @@
+{
+  "name": "API.AI cric_api webhook",
+  "description": "API.AI webhook demonstration",
+  "repository": "https://github.com/sourav44/cric-api-webhook-sample",
+  "logo": "http://xvir.github.io/img/apiai.png",
+  "keywords": ["api.ai", "natural language","cric_api"]
+}
