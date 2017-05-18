@@ -84,7 +84,7 @@ def makeWebhookResult(data,res):
         return {}
     if query=='Runs'or query=='SR' or query=='ave' or query=='Ct':
        sol=stats["batting"][form][query]
-    elif query=='Wkts' or query=='econ':
+    elif query=='Wkts' or query=='Econ':
        sol=stats["bowling"][form][query]
     else :
        sol=data['majorTeams']
